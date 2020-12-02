@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606835752 source:c:\users\lenovo\desktop\oop-quiz1\oop-quiz1\customercounter.cpp
+	"CustomerCounter.h"
+	<iostream>
+
+1606835238 c:\users\lenovo\desktop\oop-quiz1\oop-quiz1\customercounter.h
+
+1606835640 source:c:\users\lenovo\desktop\oop-quiz1\oop-quiz1\oop-quiz1.cpp
+	"CustomerCounter.h"
+	<iostream>
+
